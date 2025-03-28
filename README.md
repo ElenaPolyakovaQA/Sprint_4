@@ -8,3 +8,6 @@ test_add_book_in_favorites: Проверка, добавить книгу в и�
 test_add_book_in_favorites_not_exist: Проверка, отсутствует возможность добавить несуществующую книгу в избранное.
 test_delete_book_from_favorites: Проверка, книгу можно удалить из избранного.
 test_delete_book_from_favorites_not_exist: Проверка, удаление несуществующей книги из избранного не вызывает ошибок.
+test_add_new_book_one_amount_shows_success_window: Проверка, словарь genres содержит добавленную книгу с пустым жанром
+test_set_book_genre_one_amount_shows_success_window: Проверка жанр у книги установлен правильно
+test_get_book_genre_with_existing_book_one_amount_shows_success_window: Проверка, что жанр книги возвращается правильно
